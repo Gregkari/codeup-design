@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fade9b12-be9c-469b-9b9d-c9607ee9e44c" name="Default" comment="" />
+    <list default="true" id="fade9b12-be9c-469b-9b9d-c9607ee9e44c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/design.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/develop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/host.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/support.svg" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +60,22 @@
               <item name="codeup-design" type="b2602c69:ProjectViewProjectNode" />
               <item name="codeup-design" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="codeup-design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeup-design" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeup-design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeup-design" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="codeup-design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codeup-design" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,6 +90,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -177,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507319788915</updated>
-      <workItem from="1507319790138" duration="533000" />
+      <workItem from="1507319790138" duration="954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533000" />
+    <option name="totallyTimeSpent" value="954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="853" y="23" width="959" height="1023" extended-state="0" />

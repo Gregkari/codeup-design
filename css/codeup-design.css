@@ -41,19 +41,46 @@ body {
     width: 105px;
 }
 
+
+.word-circle {
+    display:block;
+    width:150px;
+    height:150px;
+    line-height:145px;
+    background:#e6563b;
+    color:#fff;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    border:solid 5px #fff;
+    border-radius:80px;
+    font-family: 'Anton', sans-serif;
+}
+
+.word-circle.yellow {
+    background:#eb9d3a;
+}
+
+.word-circle.green {
+    background:#7cb06c;
+}
+
+.word-circle.blue {
+    background:#00aba9;
+}
+
 hr {
     background-color: black;
 }
-.square {
+.thumbnail {
     max-width: 100%;
     width: 204px;
     height: 124px;
     border: 2px solid #f0f0f0;
 }
-
 .work, .last {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     font-family: 'Abel', sans-serif;
 }
 .side {
@@ -61,6 +88,28 @@ hr {
     height: 32px;
 }
 .mini {
-        height: 43px;
-        width: 44px;
+    height: 67px;
+    width: 56px;
+    line-height: 79px;
+}
+
+img {
+    width: 100%;
+}
+h5 {
+    font-family: "Anton", sans-serif;
+    font-size: 28px;
+}
+.tweet {
+    height:25px;
+    width: 25px;
+}
+.tinycircle {
+    float: right;
+    postition:relative;
+    right:55px;
+    top:-30px;
+    width: 18px;
+    height:18px;
+
 }
